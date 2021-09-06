@@ -1,0 +1,17 @@
+{
+    
+    "chromeWebSecurity": false,
+    "integrationFolder": "cypress/integration/",
+    "baseUrl": "https://drive.google.com/drive/",
+    "viewportHeight": 1080,
+    "viewportWidth": 1920,
+
+    "env": {
+
+        "googleClientId" : "give_your_client_id",
+        "googleClientSecret" : "give_your_client_secret",
+        "googleRefreshToken" : "give_your_Refresh_token"
+    }
+}
+
+
